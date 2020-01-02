@@ -54,7 +54,6 @@ function getInterfaceLanguage() {
  * Extend the react-localization class overriding the getInterfaceLanguage method
  * to use the native module
  */
-
 var LocalizedStrings = function (_LocalizedStringsCore) {
   _inherits(LocalizedStrings, _LocalizedStringsCore);
 
