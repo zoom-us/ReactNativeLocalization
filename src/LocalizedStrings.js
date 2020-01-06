@@ -11,7 +11,6 @@
  * Check the instructions at:
  * https://github.com/stefalda/ReactNativeLocalization
  */
-
 "use strict";
 
 Object.defineProperty(exports, "__esModule", {
